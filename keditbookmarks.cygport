@@ -1,0 +1,12 @@
+inherit kf5
+
+NAME="keditbookmarks"
+VERSION=17.04.3
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE bookmark editor"
+DESCRIPTION="In many applications (e.g. konqueror, konsole, konversation)
+the Bookmarks->Edit Bookmarks option opens the Bookmark Editor.
+Alternatively you can launch the editor as standalone application to edit
+the browser bookmarks."
+
